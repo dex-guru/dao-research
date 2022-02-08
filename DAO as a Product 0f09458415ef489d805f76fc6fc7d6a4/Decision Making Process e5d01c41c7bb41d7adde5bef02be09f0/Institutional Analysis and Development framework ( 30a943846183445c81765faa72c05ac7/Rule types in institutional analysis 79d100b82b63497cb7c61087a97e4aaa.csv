@@ -1,0 +1,8 @@
+﻿Rules,Description
+Position,"The number of possible ""positions"" actors in the action situation can assume (in terms of formal positions these might be better described as job roles, while for informal positions these might rather be social roles of some capacity"
+Boundary,Characteristics participants must have in order to be able to access a particular position
+Choice,The action capacity ascribed to a particular position
+Aggregation,Any rules relating to how interactions between participants within the action situation accumulate to final outcomes (voting schemes etc.)
+Information,The types and kinds of information and information channels available to participants in their respective positions
+Pay-off,The likely rewards or punishments for participating in the action situation
+Scope,Any criteria or requirements that exist for the final outcomes from the action situation
